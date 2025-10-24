@@ -66,7 +66,7 @@ const Hero = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start items-center mb-12">
                 <a
-                  href="/Akhil_Tamgaonkar.pdf"
+                  href="/Resume_AKHIL_TAMGAONKAR.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   download="Akhil_Tamgaonkar.pdf"
